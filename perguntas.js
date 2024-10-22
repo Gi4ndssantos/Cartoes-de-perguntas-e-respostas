@@ -1,12 +1,12 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Reciclagem',
+    'Que tipo de lixo deve ser jogado na lixeira azul?',
+    'O papel'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
+    'Reciclagem',
+    'Que tipo de lixo deve ser jogado na lixeira verde?',
     'A capital da França é Paris'
 )
 
